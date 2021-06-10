@@ -1,0 +1,7 @@
+the way to use this program is as follows.
+Do you have a text file or a multitude of text files that you would like to conform to a certain length, but are too lazy to do it by hand?
+either put a directory name or a file name ending in .txt, and then a space and a numberwhen running this file, and my program will wrap all
+ the files in the directory with this wraplength, it will not cut words off and can do massive files in a matter of millseconds.
+ran from the directory as follows, in command line
+./ww yourfilename.txt 30
+^above would make a file of character length 30 in a single column in your text file.
